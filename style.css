@@ -18,19 +18,54 @@
     font-size:25px;
 }
 
-#target{
+#goals{
     padding-top:15%;
 
 }
-#target button{
+#goals button{
     background:orange;
     padding:5px;
     width:150px;
     
 }
-#target h1{
+#goals h1{
    font-size: 50px;
+}
+.heading{
+
+    margin-left:0 ;
 }
 .heading span{
     color:orange;
  }
+
+.heading1 {
+    text-align: center;
+    color:orange;
+    font-size: 50px;
+}
+.heading1 span{
+    color: rgb(13, 13, 77);
+}
+
+.one-third-width{
+     width: 33.33%;
+     border-radius: 3%;
+     margin:10px;
+ }
+ .one-third-width img{
+     width:50%;
+ }
+ .backside1{
+     background-color: rgb(170, 209, 224);
+
+ }
+ .backside2{
+    background-color: rgb(211, 164, 172);
+
+}
+.backside3{
+    background-color: rgb(236, 229, 201);
+
+}
+
