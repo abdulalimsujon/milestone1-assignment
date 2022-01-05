@@ -1,0 +1,36 @@
+
+.half-width{
+    width:50%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width:80%;
+
+    
+}
+.container{
+    margin:150px;
+    display: flex;
+
+}
+.container p{
+    font-size:25px;
+}
+
+#target{
+    padding-top:15%;
+
+}
+#target button{
+    background:orange;
+    padding:5px;
+    width:150px;
+    
+}
+#target h1{
+   font-size: 50px;
+}
+.heading span{
+    color:orange;
+ }
