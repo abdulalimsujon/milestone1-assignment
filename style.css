@@ -1,3 +1,12 @@
+body{
+    margin:0;
+ font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+
+}
+
 body h1{
     font-size:50px;
 }
@@ -7,6 +16,11 @@ body button{
     height: 50px;
     width:150px;
     border-radius:4px
+}
+
+body span{
+    color:orange;
+
 }
 h2{
     padding-left:10px;
@@ -21,10 +35,8 @@ h2{
 }
     
     
-}
-.heading span {
-    color:orange;
-}
+
+
 heading{
    border-left: 5px orange;
 }
@@ -51,15 +63,17 @@ heading{
 #mission{
     padding-top:15%;
 
+
+}
+#mission-view p{
+    padding-left:8px;
 }
 
 .heading{
      margin-left: 5px orange;
     
 }
-.heading span{
-    color:orange;
- }
+
 
 .heading1 {
     text-align: center;
@@ -113,4 +127,17 @@ heading{
 
     width:90%;
 }
+#footer-heading{
+     color:white;
 
+}
+footer{
+    background-color: black;
+    height: 150px;
+    margin-bottom:0;
+}
+
+
+#footer-heading{
+    text-align: center;
+}
