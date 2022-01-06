@@ -1,8 +1,38 @@
+body h1{
+    font-size:50px;
+}
 
+body button{
+    background:tomato;
+    height: 50px;
+    width:150px;
+    border-radius:4px
+}
+h2{
+    padding-left:10px;
+}
+.heading{
+        border-left:7px solid;
+        border-image: linear-gradient(salmon,tomato);
+        border-image-slice: 1;
+    }
+.heading h1{
+   padding-left:5px;
+}
+    
+    
+}
+.heading span {
+    color:orange;
+}
+heading{
+   border-left: 5px orange;
+}
 .half-width{
     width:50%;
     padding-left: 2%;
 }
+
 
 .half-width img{
     width:80%;
@@ -22,18 +52,10 @@
     padding-top:15%;
 
 }
-#mission button{
-    background:orange;
-    height: 50px;
-    width:150px;
-    border-radius:4px;
-}
-#mission h1{
-   font-size: 50px;
-}
-.heading{
 
-    margin-left:0 ;
+.heading{
+     margin-left: 5px orange;
+    
 }
 .heading span{
     color:orange;
@@ -74,9 +96,6 @@
 .development1{
     margin-left: 650px;
 }
-.development1 h1{
-    font-size: 50px;
-}
 
 
 .development img{
@@ -90,10 +109,8 @@
     background-repeat: no-repeat;
     position: absolute;
 }
-.development1 button{
-    background:orange;
-    height: 50px;
-    width:150px;
-    border-radius:4px;
+.community{
 
+    width:90%;
 }
+
