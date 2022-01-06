@@ -8,7 +8,7 @@ font-family: 'Poppins', sans-serif;
 }
 
 body h1{
-    font-size:50px;
+    font-size:40px;
 }
 
 body button{
@@ -127,9 +127,21 @@ heading{
 
     width:90%;
 }
-#footer-heading{
-     color:white;
+.central h1{
+    text-align: center;
+}
 
+
+
+.centerazation{
+     color:white;
+     text-align:center;
+
+}
+.centerazation h1{
+    color:white;
+    text-align: center;
+    margin-right: 50px;
 }
 footer{
     background-color: black;
@@ -137,7 +149,37 @@ footer{
     margin-bottom:0;
 }
 
-
-#footer-heading{
+.sticky{
+    border: 3px solid  rgb(6, 6, 41);
+    padding: 5px;
+    margin-top:10px;
+    background: rgb(90, 129, 143);
+    position:sticky;
+    top: 50px;
+    margin-left:75px;
     text-align: center;
+
 }
+.pic-resize img{
+    margin-top:10px;
+    width:60%;
+    height:300px;
+    width:400px;
+    margin-left:0px;
+
+}
+
+#Go-corona{
+    padding-left: 40px;
+}
+
+#Go-corona ul li{
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+
+
+
+
+
